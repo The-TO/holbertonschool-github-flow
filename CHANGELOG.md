@@ -1,4 +1,4 @@
-## v.1.1.0
+## v1.1.0
 
-   - we have merged changes and tagged release on hisotry and intro updates 
-   - we have resolved a conflicts between 2 docs/collaboration.md on two different branches
+ - we have merged changes and tagged release on hisotry and intro updates 
+ - we have resolved a conflicts between 2 docs/collaboration.md on two different branches
